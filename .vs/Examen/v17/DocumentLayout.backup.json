@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.applicationcore\\domain\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.applicationcore\\domain\\chaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\chaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.applicationcore\\domain\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.infrastructure\\excontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\excontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.applicationcore\\domain\\visionnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\visionnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.applicationcore\\domain\\standard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\standard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\examtwin\\examen\\examen.applicationcore\\domain\\premuim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\premuim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EXContext.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.Infrastructure\\EXContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\EXContext.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.Infrastructure\\EXContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\EXContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:24:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chaine.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Chaine.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Chaine.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Chaine.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Chaine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:14:20.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visionnage.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Visionnage.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Visionnage.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Visionnage.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Visionnage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:13:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programme.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Programme.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Programme.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Programme.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Programme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:12:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Premuim.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Premuim.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Premuim.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Premuim.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Premuim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:11:32.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Standard.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Standard.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Standard.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Standard.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Standard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:10:51.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Utilisateur.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\examTWIN\\Examen\\Examen.ApplicationCore\\Domain\\Utilisateur.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:08:55.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

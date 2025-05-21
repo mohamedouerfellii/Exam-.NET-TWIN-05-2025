@@ -1,0 +1,49 @@
+﻿@model Examen.ApplicationCore.Domain.Visionnage
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Visionnage</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DateVisionnage" class="control-label"></label>
+                <input asp-for="DateVisionnage" class="form-control" />
+                <span asp-validation-for="DateVisionnage" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Favori" /> @Html.DisplayNameFor(model => model.Favori)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="UtilisateurFk" class="control-label"></label>
+                <select asp-for="UtilisateurFk" asp-items=ViewBag.lsUtilisateur class="form-control"></select>
+                <span asp-validation-for="UtilisateurFk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProgrammeFk" class="control-label"></label>
+                <select asp-for="ProgrammeFk" asp-items=ViewBag.lsProgramme class="form-control"></select>
+                <span asp-validation-for="ProgrammeFk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
